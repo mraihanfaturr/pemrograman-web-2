@@ -1,3 +1,0 @@
-hello, this is a test file.
-there are three lines here
-this is the last line.
